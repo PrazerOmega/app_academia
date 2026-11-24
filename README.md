@@ -75,3 +75,7 @@ Cada funcionalidade fica em seu próprio pacote dentro de `feature/`. O que é c
 - [ ] Cadastro de treinos e exercícios
 - [ ] Registro de sessões de treino e histórico
 - [ ] **Fase 5:** dashboard com dados reais
+
+## Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
