@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FitTrack</string>
+
+    <!-- Navegação -->
+    <string name="nav_home">Início</string>
+    <string name="nav_workouts">Treinos</string>
+    <string name="nav_exercises">Exercícios</string>
+    <string name="nav_history">Histórico</string>
+    <string name="nav_profile">Perfil</string>
+
+    <!-- Estados genéricos -->
+    <string name="state_loading">Carregando…</string>
+    <string name="state_error_title">Algo deu errado</string>
+    <string name="action_retry">Tentar novamente</string>
+
+    <!-- Início -->
+    <string name="home_title">Início</string>
+    <string name="home_in_progress_title">Treino em andamento</string>
+    <string name="home_in_progress_started_at">Iniciado às %1$s</string>
+    <string name="home_action_resume">Retomar</string>
+    <string name="home_today_title">Treino de hoje</string>
+    <string name="home_today_empty">Nenhum treino programado para hoje.</string>
+    <string name="home_action_start">Iniciar</string>
+    <string name="home_last_workout_title">Último treino</string>
+    <string name="home_last_workout_empty">Você ainda não concluiu nenhum treino.</string>
+    <string name="home_last_workout_details">%1$s · %2$s</string>
+    <string name="home_week_title">Esta semana</string>
+    <plurals name="home_week_completed">
+        <item quantity="one">%d treino concluído</item>
+        <item quantity="other">%d treinos concluídos</item>
+    </plurals>
+    <string name="home_next_workout_title">Próximo treino</string>
+    <string name="home_next_workout_empty">Nenhum treino programado na agenda.</string>
+    <string name="home_next_workout_details">%1$s · %2$s</string>
+    <string name="home_empty_title">Crie seu primeiro treino</string>
+    <string name="home_empty_message">Monte sua divisão de treinos para começar a registrar suas sessões.</string>
+    <string name="home_empty_action">Criar treino</string>
+    <string name="home_frequency_day_done">%1$s: treino concluído</string>
+    <string name="home_frequency_day_not_done">%1$s: sem treino</string>
+
+    <string-array name="week_days_short">
+        <item>S</item>
+        <item>T</item>
+        <item>Q</item>
+        <item>Q</item>
+        <item>S</item>
+        <item>S</item>
+        <item>D</item>
+    </string-array>
+    <string-array name="week_days_full">
+        <item>Segunda-feira</item>
+        <item>Terça-feira</item>
+        <item>Quarta-feira</item>
+        <item>Quinta-feira</item>
+        <item>Sexta-feira</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
+    </string-array>
+
+    <!-- Placeholders (Fase 1) -->
+    <string name="workouts_empty_title">Nenhum treino ainda</string>
+    <string name="workouts_empty_message">Seus treinos aparecerão aqui.</string>
+    <string name="exercises_empty_title">Biblioteca de exercícios</string>
+    <string name="exercises_empty_message">Os exercícios aparecerão aqui.</string>
+    <string name="history_empty_title">Nenhuma sessão registrada</string>
+    <string name="history_empty_message">Os treinos concluídos aparecerão aqui.</string>
+    <string name="profile_placeholder_title">Perfil</string>
+    <string name="profile_placeholder_message">Suas preferências aparecerão aqui.</string>
+</resources>
